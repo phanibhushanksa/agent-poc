@@ -58,4 +58,4 @@ These agents can answer questions, guide users through troubleshooting steps, op
 
 * Understand natural language: Interpret and respond to human instructions in a meaningful way.
 * Reason and plan: Analyze information, make decisions, and devise strategies to solve problems. 
-* Interact with its environment: Gather information, take Actions using Tools, and observe the results of those actions.
+* Interact with its environment: Gather information, take Actions using Tools, and observe the results of those actions
