@@ -1,0 +1,2 @@
+ipykernel==6.29.5
+huggingface-hub==0.29.1
